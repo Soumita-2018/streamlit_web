@@ -20,7 +20,8 @@ play_music()
 
 
 # GIF Animation to kick things off
-st.image("birthday.gif", caption="Let the party begin! 🎉", use_column_width=True)
+st.image("birthday.gif", caption="Let the party begin! 🎉", use_container_width=True)
+
 
 
 
